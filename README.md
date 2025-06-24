@@ -22,7 +22,9 @@
 5) Hand set_catia model
    file link-https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Handset_Model.CATPart
    
-6)  
+6)  bottle_model_design
+
+   file-https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Bottle_Model_Design.CATPart
 
 
 
