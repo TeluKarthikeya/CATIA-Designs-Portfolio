@@ -17,8 +17,8 @@
 3) Bushes_Model-catia model
    model file- https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Bushes_Model.CATPart
 
-4)
-
+4)Ribbed_Bracket_Design - catia model
+  file link- https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Ribbed_Bracket_Design.CATPart
 
 
 
