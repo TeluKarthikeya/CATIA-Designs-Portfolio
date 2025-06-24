@@ -19,6 +19,10 @@
 
 4)Ribbed_Bracket_Design - catia model
   file link- https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Ribbed_Bracket_Design.CATPart
+5) Hand set_catia model
+   file link-https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/Handset_Model.CATPart
+   
+6)  
 
 
 
