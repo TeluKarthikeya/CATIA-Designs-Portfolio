@@ -14,6 +14,8 @@
 2)  Pipe Vice - Catia Model
     model file- https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/PIPE_VICE_FINAL_ASSEMBLY.CATProduct
 
+3) Bushes_Model-catia model
+   model file-
 
 
 
