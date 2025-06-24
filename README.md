@@ -11,7 +11,10 @@
     - USB_Catia_Model_sketching
     - USB_Catia_Model_views
 
-2)  
+2)  Pipe Vice - Catia Model
+    model file- https://github.com/TeluKarthikeya/USB_Catia_Model/blob/main/PIPE_VICE_FINAL_ASSEMBLY.CATProduct
+
+
 
 
 
